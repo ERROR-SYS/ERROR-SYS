@@ -38,12 +38,10 @@
     <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,javascript,bootstrap" /><br/>
     <img src="https://skillicons.dev/icons?i=react,typescript,solidity,express,github,git" /><br/>
 </div>
-
+<!--
 <br/>
 <br/>
-
 <h2 align="center"">🌟 Insights 🌟</h2>
-
 <br/>
 <br/>
 <br/>
@@ -53,10 +51,10 @@
   </a>
 <!--   <a href=""> 
     <img height=200 width=420 align="center" src="https://streak-stats.demolab.com/?user=errsystem&theme=dark&border=fffff&background=0d1117&border_radius=7">
-  </a> -->
-</div>
+  </a> 
+</div> -->
 <!-- <a href="">
       <img height=200 width=410 align="center" src="https://github-readme-stats.vercel.app/api?username=errsystem&show_icons=true&theme=github_dark&border_color=58a6ffborder_radius=7" />
-</a>  -->
+</a> 
 <br/>
-<br/>
+<br/> -->
