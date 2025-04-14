@@ -5,11 +5,15 @@
         h3 {
           font-family: Montserrat;
           font-weight: 600;
+          font-size: 16px;
+          color: white;
         }
 
-         <!-- @media (prefers-color-scheme: light) {
-          
-          } -->
+          @media (prefers-color-scheme: light) {
+            h3 {
+              color: black;
+            }
+          } 
       </style>
 
 
