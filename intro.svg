@@ -14,6 +14,12 @@
               color: black;
             }
           } 
+
+          @media (max-width: 950px) {
+            h3 {
+              font-size: 16px;
+            }
+          } 
       </style>
 
 
