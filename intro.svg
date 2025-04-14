@@ -6,8 +6,18 @@
           display: flex;
           width: 100%;
           height: 300px;
-          background-color: black;
-          color: white;
+          background-color: white;
+          color: black;
+        }
+
+         @media (prefers-color-scheme: light) {
+          .container {
+            background-color: black;
+          }
+
+          .container h1 {
+            color: white;
+          }
         }
       </style>
 
