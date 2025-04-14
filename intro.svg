@@ -1,11 +1,11 @@
-<svg fill="none" viewBox="0 0 600 100" width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 100" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         h3 {
           font-family: Montserrat;
           font-weight: 400;
-          font-size: 14px;
+          font-size: auto;
           color: white;
         }
 
@@ -15,23 +15,21 @@
             }
           } 
 
-          @media (max-width: 950px) {
+          <!-- @media (max-width: 600px) {
             h3 {
               font-size: 16px;
             }
-          } 
+          }  -->
       </style>
 
 
      <div align="center">
-
-<h3>
-  <p>👨‍💻 Enjoying the Web3 Revolution with Code and Creativity</p>
-  
-  <p>🧩 Web3's my playground, decentralized and free</p>
-</h3>
-
- </div>
+        <h3>
+          <p>👨‍💻 Enjoying the Web3 Revolution with Code and Creativity</p>
+          
+          <p>🧩 Web3's my playground, decentralized and free</p>
+        </h3>
+     </div>
     </div>
   </foreignObject>
 </svg>
