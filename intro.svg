@@ -2,28 +2,26 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: white;
-          color: black;
+        h3 {
+          font-family: Montserrat;
+          font-weight: 600;
         }
 
-         @media (prefers-color-scheme: light) {
-          .container {
-            background-color: black;
-          }
-
-          .container h1 {
-            color: white;
-          }
-        }
+         <!-- @media (prefers-color-scheme: light) {
+          
+          } -->
       </style>
 
-      <div class="container">
-        <h1>Test</h1>
-      </div>
+
+     <div align="center">
+
+<h3>
+  <p>👨‍💻 Enjoying the Web3 Revolution with Code and Creativity</p>
+  
+  <p>🧩 Web3's my playground, decentralized and free</p>
+</h3>
+
+ </div>
     </div>
   </foreignObject>
 </svg>
