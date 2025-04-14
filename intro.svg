@@ -5,7 +5,7 @@
         h3 {
           font-family: Montserrat;
           font-weight: 400;
-          font-size: 2vw;
+          font-size: .5vw;
           color: white;
         }
 
