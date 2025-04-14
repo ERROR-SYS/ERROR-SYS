@@ -6,18 +6,18 @@
 </a>
 </div>
 
-[<img src="intro.svg">]()
+[<img src="intro.svg">](https://github.com/ERROR-SYS)
 
  <br/>
  
-<div align="center"> 
+<!--- <div align="center"> 
   <a href="mailto:buggybytes.errsys@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://twitter.com/ERR0R_SYS" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-</div>
+</div> --->
 
 <br/>
 
