@@ -1,10 +1,10 @@
 <img class="banner" width="100%" src="banner.webp">
 
 <div align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&letterSpacing=&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hello%2C+World!;You+can+call+me+ERR0R_SYS." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&letterSpacing=&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hello%2C+World!;You+can+call+me+ERR0R_SYS." />
 </div>
 
-<img src="intro.svg" style="width: 100%;">
+<img src="intro.svg" style="width: 100%">
 
  <br/>
  
