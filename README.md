@@ -18,34 +18,3 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div> --->
-
-<br/>
-
-<h2 align="center">⚙️ Tech Arsenal ⚙️</h2>
-<br/>
-<br/>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,javascript,bootstrap" /><br/>
-    <img src="https://skillicons.dev/icons?i=react,typescript,solidity,express,github,git" /><br/>
-</div>
-<!--
-<br/>
-<br/>
-<h2 align="center"">🌟 Insights 🌟</h2>
-<br/>
-<br/>
-<br/>
-<div align="center">
-  <a href="">
-    <img height=165 width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=errsystem&layout=compact&langs_count=8&card_width=320&theme=github_dark&border_color=58a6ffborder_radius=7" />
-  </a>
-<!--   <a href=""> 
-    <img height=200 width=420 align="center" src="https://streak-stats.demolab.com/?user=errsystem&theme=dark&border=fffff&background=0d1117&border_radius=7">
-  </a> 
-</div> -->
-<!-- <a href="">
-      <img height=200 width=410 align="center" src="https://github-readme-stats.vercel.app/api?username=errsystem&show_icons=true&theme=github_dark&border_color=58a6ffborder_radius=7" />
-</a> 
-<br/>
-<br/> -->
